@@ -1,0 +1,14 @@
+[
+  {
+    "device_id": "sensor_01",
+    "location": "Room A"
+  },
+  {
+    "device_id": "sensor_02",
+    "location": "Room B"
+  },
+  {
+    "device_id": "sensor_03",
+    "location": "Storage"
+  }
+]

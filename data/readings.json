@@ -1,0 +1,85 @@
+[
+  {
+    "format": "A",
+    "device_id": "sensor_01",
+    "timestamp": "2026-10-26T09:00:00",
+    "temperature": 20.0
+  },
+  {
+    "format": "A",
+    "device_id": "sensor_01",
+    "timestamp": "2026-10-26T10:00:00",
+    "temperature": 22.0
+  },
+  {
+    "format": "B",
+    "sensor": "sensor_02",
+    "measured_at": "2026-10-26T09:00:00",
+    "value": 18.0
+  },
+  {
+    "format": "B",
+    "sensor": "sensor_02",
+    "measured_at": "2026-10-26T10:00:00",
+    "value": 20.0
+  },
+  {
+    "format": "A",
+    "device_id": "sensor_03",
+    "timestamp": "2026-10-26T09:00:00",
+    "temperature": 4.0
+  },
+  {
+    "format": "B",
+    "sensor": "sensor_03",
+    "measured_at": "2026-10-26T10:00:00",
+    "value": 6.0
+  },
+  {
+    "format": "A",
+    "device_id": "sensor_01",
+    "timestamp": "2026-10-26T09:00:00",
+    "temperature": 99.0
+  },
+  {
+    "format": "A",
+    "device_id": "sensor_01",
+    "timestamp": "2026-10-26T11:00:00"
+  },
+  {
+    "format": "B",
+    "sensor": "sensor_02",
+    "measured_at": "2026-10-26T11:00:00",
+    "value": "warm"
+  },
+  {
+    "format": "A",
+    "device_id": "sensor_03",
+    "timestamp": "2026-10-26T11:00:00",
+    "temperature": 150.0
+  },
+  {
+    "format": "A",
+    "device_id": "sensor_01",
+    "timestamp": "2026-02-30T12:00:00",
+    "temperature": 21.0
+  },
+  {
+    "format": "B",
+    "sensor": "sensor_99",
+    "measured_at": "2026-10-26T12:00:00",
+    "value": 19.0
+  },
+  {
+    "format": "C",
+    "device_id": "sensor_01",
+    "timestamp": "2026-10-26T13:00:00",
+    "temperature": 21.0
+  },
+  {
+    "format": "A",
+    "device_id": "sensor_01",
+    "timestamp": "2026-10-26T14:00:00",
+    "temperature": true
+  }
+]
